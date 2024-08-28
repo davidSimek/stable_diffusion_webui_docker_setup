@@ -28,10 +28,10 @@ This will install it and run it when installed.
 > [!NOTE]
 > If you kill process, that installs it, you will be able to continue -> don't panic.
 ## Running
-1. run `/home/user/webui.sh` or `./webui.sh` in home directory (that is where you should be rn) 
-This will run webui. If you stopped instalation, before installing it completely, it will continue.
-2. open `http://127.0.0.1:7860/` on your HOST machine.
-3. Use it...
+1. run `/home/user/webui.sh` or `./webui.sh` in home directory (that is where you should be rn)  
+This will run webui. If you stopped instalation, before installing it completely, it will continue.  
+2. open `http://127.0.0.1:7860/` on your HOST machine.  
+3. Use it...  
 
 ## Some additional information
 - this image is suposed to only run [Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui). It contains almost no software, except what is needed to run use it. 
