@@ -1,5 +1,4 @@
 #!/bin/bash
-# file: build.sh
 
 docker build -t webui_ubuntu .
 docker volume create cuda_ubuntu_volume
