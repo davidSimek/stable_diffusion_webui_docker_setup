@@ -30,7 +30,7 @@ This will install it and run it when installed.
 ## Running
 1. run `/home/user/webui.sh` or `./webui.sh` in home directory (that is where you should be rn)  
 This will run webui. If you stopped instalation, before installing it completely, it will continue.  
-2. open `http://127.0.0.1:7860/` on your HOST machine.  
+2. open `http://127.0.0.1:7860/` in internet browser on your HOST machine.  
 3. Use it...  
 
 ## Some additional information
