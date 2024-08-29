@@ -5,14 +5,16 @@ This project lets you run docker container specifically for [Stable Diffusion We
 > [!CAUTION]
 > This is suposed to be only used by machine it runs on. Don't make it accessible through your network!!!
 > You are responsible for what you create with it!!!
+> It is only tested on Void Linux.
 
 ## Software Dependencies
-> [!NOTE]
-> Names differ on different distributins, so you have to find specific names of packages yourself.
 
 - docker
 - nvidia drivers
 - nvidia container toolkit
+
+> [!NOTE]
+> Names differ on different distributins, so you have to find specific names of packages yourself.
 
 ## System requirements
 - nvidia gpu
