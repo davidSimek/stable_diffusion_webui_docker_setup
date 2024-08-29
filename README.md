@@ -34,4 +34,4 @@ This will run webui. If you stopped instalation, before installing it completely
 3. Use it...  
 
 ## Some additional information
-- this image is suposed to only run [Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui). It contains almost no software, except what is needed to run use it. 
+- this image is suposed to only run [Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui). It contains almost no software, except what is needed to use it. 
